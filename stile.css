@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'metropolis';
+  src: url('font.otf');
+}
+
+a {
+color: red;
+font-family: metropolis;
+}
+h1 {
+color: blue;
+font-family: metropolis;
+}
+body {
+background-image:  url("bg.gif");
+}
